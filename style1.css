@@ -1,0 +1,21 @@
+body {
+    background-color: #F8FAE5;
+    padding: 15%;
+}
+
+h1 {
+    font-size: 8ch;
+}
+
+.button {
+    text-align: right;
+}
+
+.button a {
+    height: 20px;
+    padding: 15px;
+    color: white;
+    background-color: #43766C;
+    text-decoration: none;
+    border-radius: 30px;
+}
